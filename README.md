@@ -1,2 +1,4 @@
 # hello-world
-deneme
+Deneme maksatlı olarak oluşturduğum proje.
+Özellikle Türkçe karakter kullanıyorum.
+Hatta ıüğişçö
